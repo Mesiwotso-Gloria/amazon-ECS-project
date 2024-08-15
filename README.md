@@ -39,4 +39,5 @@ In this step, you will verify that the sample application is up and running by p
 5. Paste it into a new browser window, and press enter to view the sample application (in this case, a static webpage).
 
 Your sample application should look like the below:
+
 ![](https://github.com/Mesiwotso-Gloria/amazon-ECS-project/blob/main/ecs_wizard_step_6.png?raw=true)
