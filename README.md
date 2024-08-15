@@ -38,6 +38,6 @@ In this step, you will verify that the sample application is up and running by p
 4. In the "Description" tab, select the two page icon next to the load balancer DNS to copy the DNS name to your clipboard.
 5. Paste it into a new browser window, and press enter to view the sample application (in this case, a static webpage).
 
-Your sample application should look like the below:
+Your configuration output should look like the below:
 
 ![](https://github.com/Mesiwotso-Gloria/amazon-ECS-project/blob/main/ecs_wizard_step_6.png?raw=true)
