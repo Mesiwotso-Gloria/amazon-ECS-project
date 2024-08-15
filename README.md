@@ -32,4 +32,11 @@ In this step, you will review, launch, and view the resources you create.You hav
 ## Open the sample application
 In this step, you will verify that the sample application is up and running by pointing your browser to the load balancer DNS name. 
 
-1. 
+1. On the sample-app-service page, select the "Details" tab and select the entry under "Target Group Name".
+2. On the "Target groups" page, select the target group name.
+3. In the "Details" section, choose the "Load balancer" link.
+4. In the "Description" tab, select the two page icon next to the load balancer DNS to copy the DNS name to your clipboard.
+5. Paste it into a new browser window, and press enter to view the sample application (in this case, a static webpage).
+
+Your sample application should look like the below:
+![](
