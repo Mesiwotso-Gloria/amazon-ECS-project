@@ -41,3 +41,6 @@ In this step, you will verify that the sample application is up and running by p
 Your configuration output should look like the below:
 
 ![](https://github.com/Mesiwotso-Gloria/amazon-ECS-project/blob/main/ecs_wizard_step_6.png?raw=true)
+
+## Conclusion
+Congratulations! You have learned how to configure and deploy your Docker-enabled application to Amazon ECS. Amazon ECS is a highly scalable, high performance container management service that supports Docker containers and allows you to easily run applications on a managed cluster of Amazon EC2 instances.
